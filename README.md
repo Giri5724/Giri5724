@@ -112,7 +112,9 @@
 ### 👨‍💻 GeeksforGeeks Journey
 
 <p align="center">
-  <img src="https://img.shields.io/badge/100%2B%20DSA%20Problems%20Solved-%2310AA50?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  <a href="https://www.geeksforgeeks.org/user/giridharangiayhg/" target="_blank">
+    <img src="https://img.shields.io/badge/100%2B%20DSA%20Problems%20Solved-%2310AA50?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Profile Badge"/>
+  </a>
 </p>
 
 ---
