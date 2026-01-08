@@ -96,16 +96,22 @@
 
 ---
 
+
 ### 📈 GitHub Stats
 
-<p align="center">
+
+
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Giri5724&show_icons=true&theme=tokyonight&count_private=true" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Giri5724&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Giri5724&bg_color=000000&color=00ffbf&line=00ffc3&point=ffffff&area=true&hide_border=true" />
-</p>
+</p> -->
+
+
+
 
 ---
 
